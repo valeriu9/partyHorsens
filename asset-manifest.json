@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/partyHorsens/static/css/main.4b4f451e.css",
+    "main.js": "/partyHorsens/static/js/main.61805adb.js",
+    "index.html": "/partyHorsens/index.html",
+    "main.4b4f451e.css.map": "/partyHorsens/static/css/main.4b4f451e.css.map",
+    "main.61805adb.js.map": "/partyHorsens/static/js/main.61805adb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4f451e.css",
+    "static/js/main.61805adb.js"
+  ]
+}
