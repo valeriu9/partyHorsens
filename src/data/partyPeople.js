@@ -54,7 +54,7 @@ export const partyPeople = [
     name: "Dorin",
     image: "https://customer-assets.emergentagent.com/job_swipedrinks/artifacts/ckx6un16_dorin.jpg",
     items: ["Rum", "Cigars"],
-    distance: "4.5km de la sklad"
+    distance: "4.5km de sub papucul Mariei"
   },
   {
     id: 9,
